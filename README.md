@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Passionate Backend Developer using Python/Django/Sanic. Fell in love with GO at first sight
 <!--
 **balazsjuhasz/balazsjuhasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
